@@ -1,0 +1,13 @@
+canvas{
+    background-color: black;
+    display: block;
+    margin: 1em auto;
+    margin-top: 5em;
+    transform: scale(1.5);
+}
+p{
+    display: block;
+    margin: 1em auto;
+    text-align: center;
+    margin-top: 5em;
+}
